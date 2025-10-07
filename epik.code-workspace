@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "epik-1",
+			"path": "../epik-1"
+		}
+	],
+	"settings": {}
+}
